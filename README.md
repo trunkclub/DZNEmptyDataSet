@@ -1,3 +1,5 @@
+# This repo is ARCHIVED and will not be transferred to Gitlab.
+
 DZNEmptyDataSet
 =================
 [![Pod Version](http://img.shields.io/cocoapods/v/DZNEmptyDataSet.svg)](http://cocoadocs.org/docsets/DZNEmptyDataSet/)
